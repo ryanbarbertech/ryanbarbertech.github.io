@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "TabUp - Privacy Policy"
+title: "TabUp - Support"
 permalink: /apps/tabup/support/
 ---
 
