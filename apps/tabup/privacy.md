@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "TabUp Privacy Policy"
-permalink: /apps/tabup/privacy
+permalink: /apps/tabup/privacy/
 ---
 
 # Privacy Policy
