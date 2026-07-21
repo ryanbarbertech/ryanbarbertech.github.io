@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "TabUp Privacy Policy"
+title: "TabUp - Privacy Policy"
 permalink: /apps/tabup/privacy/
 ---
 
