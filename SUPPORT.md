@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: "TabUp - Privacy Policy"
-permalink: /apps/tabup/support/
+permalink: /apps/tabup/get-support/
 ---
 
 # TabUp Support
