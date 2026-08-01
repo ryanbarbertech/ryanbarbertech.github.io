@@ -1,3 +1,7 @@
+---
+title: Ryan Barber
+---
+
 # Projects
 
 ## TabUp - Dine Out Without The Math
