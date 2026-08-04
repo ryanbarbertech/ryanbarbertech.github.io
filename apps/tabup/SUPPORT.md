@@ -1,5 +1,5 @@
 ---
-layout: defaul
+layout: default
 title: "TabUp Support"
 permalink: /apps/tabup/support/
 ---
